@@ -59,6 +59,7 @@ function Form(props) {
                             <select name="breed" defaultValue="shiba">
                                 <option value="shiba">Shiba</option>
                                 <option value="akita">Akita</option>
+                                <option value="dalmatian">Dalmatian</option>
                             </select>
                         </div>
                     </div>
@@ -108,6 +109,8 @@ function Footer() {
                 <p>
                     <a href="https://dog.ceo/dog-api/about">Donate to Dog API</a>
                 </p>
+                <p>5418044 阿久井愛</p>
+                <p>これは日本大学文理学部情報科学科の課題である</p>
             </div>
         </footer>
     );
